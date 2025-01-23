@@ -15,7 +15,7 @@ Este projeto explora o uso de IAs generativas para criar conteúdo realista e cr
 4. **Documentação**: Escrever o README e documentar todo o processo.
 
 ## 🚀 Resultados
-![Floresta Mágica]([https://link-para-sua-imagem.png](https://i.postimg.cc/zGTpd7TC/Magical-Forest.jpg))
+![Floresta Mágica](https://link-para-sua-imagem.png](https://i.postimg.cc/zGTpd7TC/Magical-Forest.jpg))
 Imagem de uma floresta mágica criada com a IA, destacando criaturas místicas e luzes brilhantes.
 
 ## 💭 Reflexão
